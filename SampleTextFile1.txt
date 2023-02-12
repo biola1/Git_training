@@ -1,2 +1,1 @@
-This is sample file 
-Git Revert 1
+This is sample file
